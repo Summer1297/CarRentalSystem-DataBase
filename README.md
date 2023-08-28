@@ -11,3 +11,4 @@ to car rental companies, employees, and customers by:
 insurance coverage, and any additional discount.
 4. Monitoring employees' performance to assess whether they qualify for
 promotion or dismissal.
+![ERD ](https://github.com/Summer1297/CarRentalSystem-DataBase/assets/113753203/cbb8ba01-4c8c-4be7-b9c4-17e3498657e0)
